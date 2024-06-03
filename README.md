@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **samyakdjain03@gmail.com**
 
+- 💬 Ask me about **My Overall Experience and My Management Skils**
+
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n79J2Z3LlUdfYum0fHvNM6UnofI1FrU_/view?usp=sharing)
 
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
