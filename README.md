@@ -11,6 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
 
-- 📫 How to reach me **samyakjain03@gmail.com**
+- 📫 How to reach me **samyakdjain03@gmail.com**
 
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
