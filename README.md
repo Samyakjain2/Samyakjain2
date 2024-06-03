@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Samyak Jain</h1>
+<h3 align="center">Goal-driven, tech-passionate leader excelling in growth-focused environments, proficient in web dev, programming, and team management, fostering collaboration.</h3>
 
-<!--
-**Samyakjain2/Samyakjain2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sSamyakjain2&label=Profile%20views&color=0e75b6&style=flat" alt="Samyakjain2" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samyakjain2" alt="Samyakjain2" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [DIEMS: Smart Feedback System](https://github.com/TabishKhan24/newminiproject)
+
+- 🌱 I’m currently learning **React Native and Project Management Tools.**
+
+- 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
+
+- 📫 How to reach me **samyakjain03@gmail.com**
+
+- ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
