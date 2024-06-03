@@ -18,8 +18,8 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n79J2Z3LlUdfYum0fHvNM6UnofI1FrU_/view?usp=sharing)
 
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
-- 
-- <h3 align="left">Connect with me:</h3>
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Samyak_Jain021?t=VUM3g9ZwFH2OMc1ceyIFZg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Samyak_Jain021" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/samyak-jain-543669258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samyak-jain-543669258" height="30" width="40" /></a>
