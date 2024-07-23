@@ -7,7 +7,8 @@
 <ul>
   <li>🏆 WINNER OF SHODH 2024</li>
   <li>🏅 4th Place at <a href="https://www.revahacks.com/">REVA Hacks 2024</a> for immersive technology innovation</li>
-  <li>📜 Secured AIR-18 at IFEHE'S NCAT Exam 2024</li>
+  <li>📜 Secured AIR-18 at IFEHE'S NCAT Exam 2024</li
+  <li></li>                                                
 </ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samyakjain2" alt="Samyakjain2" /></a> 
