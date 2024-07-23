@@ -16,10 +16,9 @@
 <p>
   I'm a Computer Science Engineering student at Deogiri Institute of Engineering and Management Studies with a keen interest in technology and innovation. My passion lies in leveraging technology to solve real-world problems and drive impactful change. I thrive on leading teams, collaborating internationally, and bringing creative ideas to life through tech.
 </p>
+
 - 🔭 I’m currently working on [DIEMS: Smart Feedback System](https://github.com/TabishKhan24/newminiproject)
-
 - 🌱 I’m currently learning **React Native and Project Management Tools.**
-
 - 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
 - 📫 How to reach me **samyakdjain03@gmail.com**
 - 💬 Ask me about **My Overall Experience and My Management Skils**
