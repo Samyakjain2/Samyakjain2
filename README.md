@@ -67,7 +67,7 @@
 
 <h3 align="left">Education:</h3>
 <p>
-  <b>B.Tech in Computer Science Engineering</b> - Deogiri Institute of Engineering and Management Studies, Aurangabad (CGPA: 8.51, November 2021 - June 2025) <br>
+  <b>B.Tech in Computer Science Engineering</b> - Deogiri Institute of Engineering and Management Studies (CGPA: 8.51, November 2021 - June 2025) <br>
   <b>HSC</b> - Sarosh Junior College (Percentage: 91.33%, September 2019 - March 2021)
 </p>
 
