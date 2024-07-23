@@ -6,10 +6,8 @@
 <h3 align="left">Achievements:</h3>
 <ul>
   <li>🏆 WINNER OF SHODH 2024</li>
-  <li>🥇 1st Place - Best Innovation Team at <a href="https://saeindia.org/tifan-2024">TIFAN 2024 (SAE India)</a></li>
   <li>🏅 4th Place at <a href="https://www.revahacks.com/">REVA Hacks 2024</a> for immersive technology innovation</li>
-  <li>🎤 Delivered a session titled "Seeds of Success: How I Grew into a DevOps" at the <a href="https://aws.amazon.com/user-groups/women-in-tech-nepal/">AWS User Group Women in Tech Nepal</a> event</li>
-  <li>📜 Received Letters of Appreciation from Prof. Narnia Bohler Muller, Sibulele Poswayo, and Kuladeep Jangam</li>
+  <li>📜 Secured AIR-18 at IFEHE'S NCAT Exam 2024</li>
 </ul>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Samyakjain2" alt="Samyakjain2" /></a> </p>
