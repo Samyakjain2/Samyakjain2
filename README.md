@@ -59,6 +59,18 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
+<h3 align="left">Recent Projects:</h3>
+<ul>
+  <li><a href="https://github.com/TabishKhan24/newminiproject">DIEMS Smart Feedback System</a></li>
+  <li><a href="https://github.com/sanika391/AR-VR-Military-Training">AR/VR Live Training of Military Troops</a>: Utilized Unreal Engine 5 and GeoSpatial Technology for immersive training</li>
+</ul>
+
+<h3 align="left">Education:</h3>
+<p>
+  <b>B.Tech in Computer Science Engineering</b> - Deogiri Institute of Engineering and Management Studies (CGPA: 8.34, November 2021 - June 2025) <br>
+  <b>HSC in Computer Science</b> - Sant Bhagwanbaba Kala Mahavidyalaya (Percentage: 89%, September 2019 - March 2021)
+</p>
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyakjain2&show_icons=true&locale=en&layout=compact" alt="samyakjain2" />
 </p>
