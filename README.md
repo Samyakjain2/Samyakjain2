@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samyak Jain</h1>
+<h1 align="center">Hello 👋, I'm Samyak Jain</h1>
 <h3 align="center">Goal-driven, tech-passionate leader excelling in growth-focused environments, proficient in web dev, programming, and team management, fostering collaboration.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Samyakjain2&label=Profile%20views&color=0e75b6&style=flat" alt="Samyakjain2" /> </p>
