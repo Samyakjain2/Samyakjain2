@@ -25,7 +25,7 @@
 - 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
 - 📫 How to reach me **samyakdjain03@gmail.com**
 - 💬 Ask me about **My Overall Experience and My Management Skils**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1n79J2Z3LlUdfYum0fHvNM6UnofI1FrU_/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bA983TjgZY4goc_EVQVj4c9j1j-5Ygnk/view?usp=sharing)
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
   
 <h3 align="left">Connect with me:</h3>
