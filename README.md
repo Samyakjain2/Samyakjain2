@@ -21,7 +21,7 @@
 </p>
 
 - 🔭 I’m currently working on **DIEMS Training and Placement Portal**
-- 🌱 I’m currently learning **React Native and Project Management Tools.**
+- 🌱 I’m currently learning **React Native and Project Management Tools**
 - 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
 - 📫 How to reach me **samyakdjain03@gmail.com**
 - 💬 Ask me about **My Overall Experience and My Management Skils**
