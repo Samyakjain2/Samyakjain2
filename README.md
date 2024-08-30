@@ -24,7 +24,7 @@
 - 🌱 I’m currently learning **React Native and Project Management Tools**
 - 👨‍💻 All of my projects are available at [http://samyakjain.auradigital.in/](http://samyakjain.auradigital.in/)
 - 📫 How to reach me **samyakdjain03@gmail.com**
-- 💬 Ask me about **My Overall Experience and My Management Skils**
+- 💬 Ask me about **My Overall Experience and My Management Skills**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bA983TjgZY4goc_EVQVj4c9j1j-5Ygnk/view?usp=sharing)
 - ⚡ Fun fact **I love blending technology and creativity to solve real-world problems!**
   
