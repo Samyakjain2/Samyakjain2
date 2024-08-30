@@ -7,7 +7,7 @@
 <ul>
   <li>🏆 WINNER OF SHODH 2024</li>
   <li>🏅 4th Place at <a href="https://www.revahacks.com/">REVA Hacks 2024</a> for immersive technology innovation</li>
-  <li>📜 Secured AIR-18 at IFEHE'S National Creativity Aptitude Test Exam 2024</li
+  <li>📜 Secured AIR-18 at IFEHE'S National Creativity Aptitude Test 2024</li
   <li></li>                                                
 </ul>
 
